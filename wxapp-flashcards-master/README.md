@@ -12,5 +12,5 @@
 
 ###	个人信息
 - 个人博客  https://www.cnblogs.com/Ly66310/
-- 公众号  IT越界
-- 小程序  万能超级工具
+- 公众号  IT越界 https://images.cnblogs.com/cnblogs_com/Ly66310/1507210/t_200921094321gzh.jpg?a=1600759514887
+- 小程序  万能超级工具 https://images.cnblogs.com/cnblogs_com/Ly66310/1507210/t_200916085157myApplets.png?a=1600759514887
