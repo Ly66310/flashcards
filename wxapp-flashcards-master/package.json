@@ -1,0 +1,18 @@
+{
+  "name": "wxapp-superTools",
+  "version": "1.0.0",
+  "description": "看图识字",
+  "main": "app.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "superTools",
+    "wechat",
+    "miniprogram"
+  ],
+  "author": "949639844@qq.com",
+  "license": "MIT"
+}

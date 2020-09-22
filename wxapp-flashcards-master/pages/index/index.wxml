@@ -1,0 +1,18 @@
+<view class="container">
+<view class="container-box">
+    <view class="img-box">
+        <scroll-view scroll-y="true" class="result">
+                <view wx:for-items="{{textContent}}" wx:for-index="idx" wx:key="idx">
+                    <text selectable='true'>{{item.words}}</text>
+                </view>
+        </scroll-view>
+    </view>
+    <view>
+        <button bindtap="upload" class="mybtn"><image src="../../images/uploadImage.png"></image>开始上传</button>
+    </view>
+</view>
+
+<loading hidden="{{loadingHide}}">
+    加载中...
+</loading>
+</view>

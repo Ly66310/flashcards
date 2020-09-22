@@ -1,0 +1,25 @@
+/**app.wxss**/
+ /* .container {
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 200rpx 0;
+  box-sizing: border-box;
+}   */
+.container {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  box-sizing: border-box;
+}
+page{
+  font-family: "PingFang SC", "PingFang-SC-Light", "Hiragino Sans GB", "Heiti SC", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
+  font-size: 28rpx;
+  color: #676767;
+  height: 100%;
+  -webkit-font-smoothing:antialiased;
+}
